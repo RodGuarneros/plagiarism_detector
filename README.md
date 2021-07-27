@@ -1,2 +1,5 @@
 # plagiarism_detector
-A web application to detect pagiarism
+
+## By Rodrigo Guarneros
+
+Based on machine learning methods, this is a web application to detect pagiarism.
